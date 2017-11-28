@@ -51,6 +51,6 @@ co-founder : Starbhak Solution
 
 ## Contact me
 
-[puguh.starbhak@gmail.com](mailto:puguh.starbhak@gmail.com)
-081317028212 (Whatsapp)
-087785002610 (Phone)
+* **[puguh.starbhak@gmail.com](mailto:puguh.starbhak@gmail.com)
+* **081317028212 (Whatsapp)
+* **087785002610 (Phone)
