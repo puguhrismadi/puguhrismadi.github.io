@@ -3,53 +3,52 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.  
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
-
-Sed faucibus felis purus, sed convallis leo dictum vehicula.
+Seorang Freelance Web Developer dan UX Engineer.mulai belajar Pemrograman web sejak di bangku kuliah pada tahun 2008 hingga saat ini masih aktif mengisi blog www.programming.smktarunabhakti.net  
+Seorang Pengajar SMK bidang Web Programming khususnya Kompetensi Keahlian Rekayasa Perangkat Lunak di Sebuah Sekolah swasta di daerah cimanggis kota depok.
+Alamat Office : Jl.Pekapuran Kel.Curug Kec.Cimanggis Kota Depok Jawa Barat
+telp Office   : (021) 874 8410
 
 ## Education
 
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
+* AMIK Bogor D3 Manajemen Informatika.
+* STIKOM Binaniaga Bogor S1 Sistem Informasi.
+
 
 ## Roles
 
-Founder, ABC Organisation
+co-founder : Starbhak Solution
 
 ## Skills
 
-* **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 3** - `Skill` / `Skill` / `Skill`
-* **Skill 4** - `Skill` / `Skill` / `Skill` 
-* **Skill 5** - `Skill`
-* **Skill 6** - `Skill` / `Skill` 
+* **UX Designer** - `Skill` / `Skill` / `Skill` / `Skill`
+* **Web Programming** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
+* **Branding And Logo Designer** - `Skill` / `Skill` / `Skill`
+* **** Web Service | Data Service- `Skill` / `Skill` / `Skill` 
+* **Software Solution** - `Skill`
+
     
     
 ## Achievements
 
 
-* [**This is my first achievement**](#) 
+* [**Mengerjakan Beberapa Big Project dengan tim yang saya didik**](#) 
    
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+   Dalam mencapai achievement ini membutuhkan dukungan banyak pihak dalam mencapainya, komponen yang paling utama dalam mencapai achievement ini adalah adanya kepercayaan partner bisnis untuk menyerahkan projectnya kepada tim kami.
+   komponen yang tidak kalah pentingnya adalah adanya tim yang solid yang kompeten dan dapat menyelesaikan tugas dalam pengerjaan project yang sesuai dengan dateline.
+   
+***
+
+* [**Membuat Produk yang dapat digunakan oleh masyarakat umum**](#) 
+
+    Dalam membuat produk sangat di butuhkan ide-ide yang kreatif yang tentunya dapat berguna bagi masyarakat.selain ide yang kreatif poin pentingnya adalah berguna atau dapat di manfaatkan oleh masyarakat luas.
 
 ***
 
-* [**This is my second achievement**](#) 
+* [**Membuat Startup yang mampu bersaing dengan startup skala global**](#) 
 
-    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
-***
-
-* [**This is my third achievement**](#) 
-
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
+   Tahapan awal dalam melangkah ke achievement ini sudah merangkul talenta-talenta muda yang berpotensi, dan menjalin network yang dapat menghantarkan startup menuju gerbang besar kesuksesan.
 
 
 ## Contact me
 
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+[puguh.starbhak@gmail.com](mailto:puguh.starbhak@gmail.com)
