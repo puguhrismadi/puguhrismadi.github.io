@@ -4,29 +4,35 @@ title: Projects
 permalink: /projects/
 ---
 
-### [Project 1](https://github.com/tux4kids/tuxmania) 
-Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+### [Project Aplikasi Penilaian Ujian Kompetensi 2016 ](https://pukk.cloud9.id) 
+adalah sebuah aplikasi penilaian uji kompetensi kejuruan SMK berbasis web yang bekerjasama dengan PT Bonet Utama pada tahun 2016.dalam project ini mempunyai peran sebagai programmer tunggal dalam pembuatan aplikasinya.
 
 ***
 
-### [Project 2](https://github.com/AkshayAgarwal007/Moodly)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
-Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+### [Project Administrasi Penyidikan POLDA Kaltim 2016 ](#)
+dalam project system informasi penyidikan di POLDA Kalimantan Timur ini melibatkan 1 tim yang mempunyai peran yang berbeda-beda, 
+peran dalam project ini adalah sebagai leader tim, UX Engineer dan Web Developer.
 
 ***
 
 ## Other Projects
 
-### This Could Be Another Project Name
+### Website Sekolah SMK Taruna Bhakti (https:www.smktarunabhakti.net)
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-   
-### This Could Be Yet Another Project Name
+  ini adalah project website yang secara berkala saya maintenance sampai saat ini.website sekolah yang di buat menggunakan engine content management system yaitu wordpress.
+### Implementasi Sistem Informasi Sekolah Dengan Jibas
+  Sistem informasi sekolah dengan menggunakan system opensource khusus dunia pendidikan ini mencakup :
+  1. Absensi Siswa dan Guru Dengan Fingerprint
+  2. Informasi Ke wali murid melalui smsgateway
+  3. Otomatisasi Laporan (executive summary report)
+  dll.
+### Website Sekolah Yayasan Tunas Iblam (https:www.tunasiblam.sch.id)
 
-   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
+   website sekolah ini adalah project yang saya buat tahun 2017.website menggunakan engine wordpress yang telah di modifikasi sesuai permintaan/kebutuhan client.
+   dan beberapa project lainnya ..
 
 ## Contact me
 
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+* [puguh.starbhak@gmail.com](mailto:puguh.starbhak@gmail.com)
+* 081317028212 (Whatsapp)
+* 087785002610 (Call Phone)
