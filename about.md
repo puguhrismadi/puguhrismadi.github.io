@@ -23,17 +23,17 @@ co-founder : Starbhak Solution
 * **UX Designer** - `Photoshop` / `gliffy` / `Sketch` 
 * **Web Programming** - `PHP` / `MYSQL` / `Codeigniter` / `Laravel`/`Content Management System` / `Wordpress` 
 * **Branding And Logo Designer** - `Ilustrator` / `Photoshop` 
-* **Web Service | Data Service- `Laravel` / `Lumen` 
+* **Web Service | Data Service **- `Laravel` / `Lumen` 
 * **Software Development Solution** - `Scrum`
 
     
     
-## Achievements
+## Life Goals
 
 
 * [**Mengerjakan Beberapa Big Project dengan tim yang saya didik**](#) 
    
-   Dalam mencapai achievement ini membutuhkan dukungan banyak pihak dalam mencapainya, komponen yang paling utama dalam mencapai achievement ini adalah adanya kepercayaan partner bisnis untuk menyerahkan projectnya kepada tim kami.
+   Dalam mencapai tantangan ini membutuhkan dukungan banyak pihak dalam mencapainya, komponen yang paling utama dalam mencapai achievement ini adalah adanya kepercayaan partner bisnis untuk menyerahkan projectnya kepada tim kami.
    komponen yang tidak kalah pentingnya adalah adanya tim yang solid yang kompeten dan dapat menyelesaikan tugas dalam pengerjaan project yang sesuai dengan dateline.
    
 ***
@@ -46,7 +46,7 @@ co-founder : Starbhak Solution
 
 * [**Membuat Startup yang mampu bersaing dengan startup skala global**](#) 
 
-   Tahapan awal dalam melangkah ke achievement ini sudah merangkul talenta-talenta muda yang berpotensi, dan menjalin network yang dapat menghantarkan startup menuju gerbang besar kesuksesan.
+   Tahapan awal dalam melangkah ke achievement ini sudah merangkul talenta-talenta muda yang berpotensi, dan menjalin network yang dapat menghantarkan startup yang dibangun bersama tetap survive di era digital saat ini.
 
 
 ## Contact me
