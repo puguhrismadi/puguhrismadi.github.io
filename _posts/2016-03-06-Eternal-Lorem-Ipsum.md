@@ -1,15 +1,17 @@
 ---
 layout: post
-title: The Eternal Lorem Ipsum Placeholder Text Here
-author: Author Name
+title: Entitiy Resource Planning (ERP)
+author: Puguh Rismadi Ismail
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. 
+ERP merupakan sistem terintegrasi yang mempunyai tujuan untuk merangkum proses bisnis yang ada sehingga menjadi satu kolaborasi yang efisien dan efektif. Sistem tersebut didukung dengan teknologi informasi yang dapat menghasilkan informasi untuk menunjang perusahaan agar menjadi lebih kompetitif.
 
-## The Eternal Lorem Ipsum? 
+
+## Entity Resource Planning
 -----
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
+ERP merupakan sistem terintegrasi yang mempunyai tujuan untuk merangkum proses bisnis yang ada sehingga menjadi satu kolaborasi yang efisien dan efektif. Sistem tersebut didukung dengan teknologi informasi yang dapat menghasilkan informasi untuk menunjang perusahaan agar menjadi lebih kompetitif
 
-Nam maximus tempor feugiat. Mauris tristique imperdiet nulla id egestas. Proin eget lobortis magna. Duis consectetur nibh at elit viverra congue. Ut eu turpis enim. Suspendisse laoreet, diam sed consequat sodales, felis dolor accumsan justo, nec scelerisque mi sem quis dolor. Etiam ornare venenatis massa, a suscipit ex. Ut quis lectus id nibh mattis rutrum. Nunc vel cursus eros, at blandit mi. Vivamus ac posuere libero.
+Konsep ERP dapat dijalankan dengan baik, jika didukung oleh seperangkat aplikasi dan infrastruktur komputer baik software maupun hardware sehingga pengolahan data dan informasi dapat dilakukan dengan mudah dan terintegrasi.
 
+Kata kunci utama pada ERP, yaitu adanya aspek perencanaan yang terintegrasi di suatu organisasi atau perusahaan dengan tujuan agar dapat merencanakan dan mengelola sumber daya organisasi dan dapat merespon kebutuhan pelanggan dengan baik.
