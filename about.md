@@ -20,11 +20,11 @@ co-founder : Starbhak Solution
 
 ## Skills
 
-* **UX Designer** - `Skill` / `Skill` / `Skill` / `Skill`
-* **Web Programming** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
-* **Branding And Logo Designer** - `Skill` / `Skill` / `Skill`
-* **** Web Service | Data Service- `Skill` / `Skill` / `Skill` 
-* **Software Solution** - `Skill`
+* **UX Designer** - `Photoshop` / `gliffy` / `Sketch` 
+* **Web Programming** - `PHP` / `MYSQL` / `Codeigniter` / `Laravel`/`Content Management System` / `Wordpress` 
+* **Branding And Logo Designer** - `Ilustrator` / `Photoshop` 
+* **Web Service | Data Service- `Laravel` / `Lumen` 
+* **Software Development Solution** - `Scrum`
 
     
     
@@ -52,3 +52,5 @@ co-founder : Starbhak Solution
 ## Contact me
 
 [puguh.starbhak@gmail.com](mailto:puguh.starbhak@gmail.com)
+081317028212 (Whatsapp)
+087785002610 (Phone)
