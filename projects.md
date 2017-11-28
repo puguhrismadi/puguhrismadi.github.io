@@ -17,7 +17,7 @@ peran dalam project ini adalah sebagai leader tim, UX Engineer dan Web Developer
 
 ## Other Projects
 
-### Website Sekolah SMK Taruna Bhakti (https:www.smktarunabhakti.net)
+### Website Sekolah SMK Taruna Bhakti 
 
   ini adalah project website yang secara berkala saya maintenance sampai saat ini.website sekolah yang di buat menggunakan engine content management system yaitu wordpress.
 ### Implementasi Sistem Informasi Sekolah Dengan Jibas
@@ -26,9 +26,11 @@ peran dalam project ini adalah sebagai leader tim, UX Engineer dan Web Developer
   2. Informasi Ke wali murid melalui smsgateway
   3. Otomatisasi Laporan (executive summary report)
   dll.
-### Website Sekolah Yayasan Tunas Iblam (https:www.tunasiblam.sch.id)
-
+  link : www.smktarunabhakti.net(https:www.smktarunabhakti.net)
+### Website Sekolah Yayasan Tunas Iblam 
    website sekolah ini adalah project yang saya buat tahun 2017.website menggunakan engine wordpress yang telah di modifikasi sesuai permintaan/kebutuhan client.
+link : (https:www.tunasiblam.sch.id)
+
    dan beberapa project lainnya ..
 
 ## Contact me
